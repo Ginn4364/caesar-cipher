@@ -59,6 +59,7 @@ if option == "decrypt":
 ##added another variable that simply subracts and negates the effects the loop_back variable had on them. Then it's
 ##chr() and .join().
 
+tucker = "cool"
 
 
 
